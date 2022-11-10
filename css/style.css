@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+.custom1 {
+    background-color: #3e3c3c !important;
+}
+
+.headline {
+    background-color: #1C1A19;
+}
+
+.intro {
+    max-width: 450px;
+    position: relative;
+    z-index: 4;
+    top: 192px;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 82px;
+    width: 350px;
+    height: 160px;
+    color: #F55800;
+    font-family: 'Crete Round', serif;
+    margin-bottom: 30px;
+}
+
+p {
+    width: 566px;
+    height: 123px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #F4F5F7;
+    font-family: 'Inter', sans-serif;
+}
+
+h2 {
+    width: 566px;
+    height: 24px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+    color: #F4F5F7;
+    margin-bottom: 30px;
+}
+
+.img-fluid {
+    position: relative;
+    left: 26.2%;
+}
+
+.social-nav {
+    position: absolute;
+    top: 326px;
+    right: 1px;
+}
